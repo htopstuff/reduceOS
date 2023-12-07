@@ -1,8 +1,5 @@
 #!/bin/bash
-# Author: Serge Hallyn <serge.hallyn@canonical.com>
-# For use with live-helper
-# Call this something like 99cleanupmodules and
-# place it in config/chroot_local-hooks/
+# Author: HtopStuff
 
 # Unusable example list - get the list from lsmod # on a running system.
 # TODO - it's worth adding a function which deduces the actual module
