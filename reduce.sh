@@ -1,6 +1,9 @@
 #!/bin/bash
 # Author: HtopStuff
 
+# Script is used to reduce Debian based OSs like Debian, Ubuntu etc.
+# This 
+
 # Unusable example list - get the list from lsmod # on a running system.
 # TODO - it's worth adding a function which deduces the actual module
 # file based on the name - these are often not quite the same.
